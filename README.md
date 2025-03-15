@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Avirup</h1>
-<p>A passionate learner on a journey to master coding, Embedded Linux, AI, and Cybersecurity while exploring the world of data analytics and automation.</p>
+<p>I like to code[sometimes].</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avirup-ghosh-thebetterone) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avirupghosh010@gmail.com) 
